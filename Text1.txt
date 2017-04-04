@@ -1,3 +1,5 @@
 Initial File Text1.txt in master branch - one more change in file 1
 
 Additional changes for File1
+
+Ammended changes
